@@ -1,0 +1,2 @@
+# EFGenericRepositoryRealisation
+Реализация паттерна EFGenericRepository
