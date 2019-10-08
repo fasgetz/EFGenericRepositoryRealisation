@@ -1,2 +1,2 @@
 # EFGenericRepositoryRealisation
-Реализация паттерна EFGenericRepository
+Библитека реализации паттерна EFGenericRepository .Net Core 2.2
